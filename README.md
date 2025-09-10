@@ -1,5 +1,5 @@
 # awggui (amneziawg gui)
-a working gui for amneziawg on linux
+a working gui for amneziawg on linux (not done)
 
 # requirements
 
