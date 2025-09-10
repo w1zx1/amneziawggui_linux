@@ -1,4 +1,4 @@
-# awggui
+# awggui (amneziawg gui)
 a working gui for amneziawg on linux
 
 # reqirements
