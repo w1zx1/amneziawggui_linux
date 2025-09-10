@@ -5,7 +5,11 @@ a working gui for amneziawg on linux
 
 you need to install dependencies
 
-for arch linux: yay -S amneziawg-dkms amneziawg-tools
+for arch linux: 
+
+1. sudo pacman -S python-pyqt6
+
+2. yay -S amneziawg-dkms amneziawg-tools
 
 # known bugs
 
